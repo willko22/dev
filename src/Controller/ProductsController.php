@@ -7,7 +7,7 @@ use Cake\ORM\TableRegistry;
 use App\Controller\AppController;
 use App\Model\Table\CategoriesTable;
 use App\Model\Table\ProductsCategoriesTable;
-
+ 
 /**
  * Products Controller
  *
